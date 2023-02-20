@@ -15,3 +15,5 @@ Vecinos o muy lejos? - la distancia de las planets desde nuestro sol.
 
 4. quartera graphica:
 Que grande son las planetas en comparison con la tierra.
+
+![brand-europe-logo](https://user-images.githubusercontent.com/110898886/220114997-af4a95b6-6313-45b4-a019-809679180e17.png)

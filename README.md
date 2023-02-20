@@ -14,6 +14,7 @@ Que grande son las sistemas solares y como es la distribucion entre ellos.
 
 ## 3. la tercera graphica:
 Vecinos o muy lejos? - la distancia de las planets desde nuestro sol.
+
 <img width="115" alt="Screenshot 2023-02-20 at 14 00 32" src="https://user-images.githubusercontent.com/110898886/220116463-de6fcca5-6787-4508-8082-c2cf1e7d6298.png">
 
 

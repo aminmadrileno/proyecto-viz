@@ -4,6 +4,7 @@ Para eso proyecto, he limpizado la base de datos de las exoplanetas y usé table
 
 1. la primera graphica:
 Cuantos discubiertos por año.
+![img_name](img_url <img width="1440" alt="Screenshot 2023-02-20 at 12 59 33" src="https://user-images.githubusercontent.com/110898886/220114720-9e506e0a-b0c2-425e-a275-c7194b8d3770.png">)
 
 
 2. la segunda graphica:

@@ -11,6 +11,8 @@ Cuantos discubiertos por año.
 ## 2. la segunda graphica:
 Que grande son las sistemas solares y como es la distribucion entre ellos. 
 
+<img width="570" alt="Screenshot 2023-02-20 at 14 13 54" src="https://user-images.githubusercontent.com/110898886/220118677-3fb8dc78-a87a-4620-ad83-724ed7ed5532.png">
+
 
 ## 3. la tercera graphica:
 Vecinos o muy lejos? - la distancia de las planets desde nuestro sol.

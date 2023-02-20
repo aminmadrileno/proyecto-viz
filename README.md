@@ -1,6 +1,6 @@
 # proyecto-viz
 
-Para eso proyecto, he limpizado la base de datos de las exoplanetas y usé tableau para hacer visualizaciones superficiales de esa base. 
+Para eso proyecto, he limpizado la base de datos de las exoplanetas y usé matplotlib & tableau para hacer visualizaciones superficiales de esa base. 
 
 ## 1. la primera graphica:
 Cuantos discubiertos por año.
